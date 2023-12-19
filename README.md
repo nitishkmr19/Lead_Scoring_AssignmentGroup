@@ -11,3 +11,7 @@ LeadScoringPPT file in pdf format
 <hr>
 
 Lead Scoring Assignment_Subjective questions solution in pdf format
+
+<hr>
+
+Lead Scoring Assignment _Summary in pdf format
